@@ -1,11 +1,11 @@
 
-# 📘 Assignment: Hangman
+# 📘 Atividade: Jogo da Forca
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Pratique manipulação de strings, loops, condicionais, entrada de dados e seleção aleatória ao implementar o jogo da Forca em Python.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Implementar o Jogo da Forca
 
