@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "API REST de Livros com FastAPI",
+      "description": "Crie uma API REST para gerenciar livros usando FastAPI, métodos HTTP e validação de dados.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Código Inicial",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
