@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "pytest-basics",
+      "title": "Testes Automatizados com pytest",
+      "description": "Escreva testes automatizados para funções Python usando pytest, assert, parametrização e verificação de exceções.",
+      "path": "assignments/pytest-basics",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Código Inicial",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
